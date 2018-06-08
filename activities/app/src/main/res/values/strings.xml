@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo de cambio de activity</string>
+    <string name="cambio_activity">Cambiar activity</string>
+    <string name="cambiada_activity">Activity cambiada!!!</string>
+</resources>
