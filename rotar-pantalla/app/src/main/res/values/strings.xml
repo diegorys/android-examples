@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo Rotar Pantalla</string>
+
+    <string name="nombre">Introduce tu nombre</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="conservar_estado">Conservar estado</string>
+</resources>
