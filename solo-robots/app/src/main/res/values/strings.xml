@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sólo Robots</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="robot_azar">Robot al azar</string>
+    <string name="mostrar_mensaje">Mostrar mensaje</string>
+</resources>
